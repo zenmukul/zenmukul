@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, My Name is Mukul Chugh</h1>
 <h3 align="center">A passionate Full Stack Developer & UI/UX Designer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukulchugh&label=Profile%20views&color=0e75b6&style=flat" alt="mukulchugh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zenmukul&label=Profile%20views&color=0e75b6&style=flat" alt="mukulchugh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukulchugh" alt="mukulchugh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zenmukul" alt="mukulchugh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/themukulchugh" target="blank"><img src="https://img.shields.io/twitter/follow/themukulchugh?logo=twitter&style=for-the-badge" alt="themukulchugh" /></a> </p>
 
-- 🔭 I’m currently pursuing **Bachelors in Computer Science & Engineering**
+- 🔭 I’m currently a **Software Engineering Inter @ Zenduty**
 
 - 🌱 I’m currently learning **ReactJS, React Native, Python, Django, Cloud Computing, Blockchain**
 
@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **react, freelancing, JavaScript, Blockchain, ReactJS, React Native, Growth Hacking, Python, UI/UX Design, Wordpress**
 
-- 📫 How to reach me **mukulchughofficial@gmail.com**
+- 📫 How to reach me **mukulchughofficial@gmail.com** or **mukul@zenduty.com**
 
 - 📄 Reach out to me on Linkedin [https://linkedin.com/in/mukulchugh](https://linkedin.com/in/mukulchugh)
 
@@ -30,11 +30,6 @@
 
 ### Here's a Quote to keep you motivated,  LOL 😛
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=vue-dark&animation=grow_out_in&layout=default&font=default)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [11+1 Creative Web Developer Portfolios for Inspiration – 2021](https://blog.mukulchugh.com/101-creative-web-developer-portfolios-for-inspiration-2021-ckqc7g07400kigss16gp67te4/)
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -58,12 +53,11 @@
 <div >
 
 <h3 align="left">Some Stats:</h3>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mukulchugh&" alt="mukulchugh" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=zenmukul&" alt="mukulchugh" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mukulchugh&show_icons=true&locale=en&layout=compact" alt="mukulchugh" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zenmukul&show_icons=true&locale=en&layout=compact" alt="mukulchugh" /></p>
 
 
 </div>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mukulchugh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mukulchugh" /></a></p><br><br>
+
