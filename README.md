@@ -28,8 +28,6 @@
 
 - ⚡ Fun fact **I log Dogs 🐶**
 
-### Here's a Quote to keep you motivated,  LOL 😛
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=vue-dark&animation=grow_out_in&layout=default&font=default)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,7 +40,6 @@
 <a href="https://medium.com/@themukulchugh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@themukulchugh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mukulchugh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mukulchugh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mukulchughoffic1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mukulchughoffic1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mukulchughofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mukulchughofficial" height="30" width="40" /></a>
 <a href="/https://blog.mukulchugh.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.mukulchugh.com/feed/" height="30" width="40" /></a>
 </p>
 
